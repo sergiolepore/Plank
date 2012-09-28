@@ -36,4 +36,5 @@ Usage
 TODOs
 -----
 
+* Write, at least, a minimal documentation :D
 * For "list" command, enable filters by namespace (execute `help list` to read about namespace argument)
