@@ -3,6 +3,11 @@ Plank
 
 CLI Module for Node.js
 
+Installation
+------------
+
+    npm install plank
+
 Usage
 -----
 
