@@ -14,7 +14,7 @@
   },
   "main": "./lib/plank",
   "bin": {
-    "cation": "./bin/plank"
+    "plank": "./bin/plank"
   },
   "engines": {
     "node": ">= 0.8.9"
