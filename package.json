@@ -1,7 +1,7 @@
 {
   "name": "plank",
   "description": "Node.js CLI module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Moobin <info@moobin.net>",
   "maintainers": [
     "sergiolepore <slepore@moobin.net>",
@@ -17,6 +17,6 @@
     "plank": "./bin/plank"
   },
   "engines": {
-    "node": ">= 0.8.9"
+    "node": ">= 0.6.12"
   }
 }
