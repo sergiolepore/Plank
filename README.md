@@ -27,3 +27,8 @@ Usage
     });  
     
     cli.run();
+
+TODOs
+-----
+
+* For "list" command, enable filters by namespace (execute `help list` to read about namespace argument)
