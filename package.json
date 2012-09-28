@@ -1,0 +1,22 @@
+{
+  "name": "plank",
+  "description": "Node.js CLI module",
+  "version": "0.1.1",
+  "author": "Moobin <info@moobin.net>",
+  "maintainers": [
+    "sergiolepore <slepore@moobin.net>",
+    "MarceloMira <mmira@moobin.net>",
+    "joelalejandro <joel.alejandro@moobin.net>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moobin/Plank.git"
+  },
+  "main": "./lib/plank",
+  "bin": {
+    "cation": "./bin/plank"
+  },
+  "engines": {
+    "node": ">= 0.8.9"
+  }
+}
