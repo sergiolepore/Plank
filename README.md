@@ -38,3 +38,9 @@ TODOs
 
 * Write, at least, a minimal documentation :D
 * For "list" command, enable filters by namespace (execute `help list` to read about namespace argument)
+
+Changelog
+---------
+
+0.1.3:
+* Fixed static name on console bootup (always showing `plank` instead of the setted name).
