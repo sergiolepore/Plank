@@ -1,6 +1,8 @@
 Plank
 =====
 
+[![Join the chat at https://gitter.im/sergiolepore/Plank](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sergiolepore/Plank?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 CLI Module for Node.js
 
 Installation
